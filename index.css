@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .post h3{
+    padding: 2rem;
+    color: #033b80;
+    font-size:32px; 
+    font-style:italic;
+    font-size:40px;
+    text-align:center
+  }
+
+  .post li{
+    color: blue;
+    font-size: 1.8rem;
+    font-weight: bold;
+    padding: 1rem;
+    display: inline-flexbox;
+    text-align:center;
+  }
